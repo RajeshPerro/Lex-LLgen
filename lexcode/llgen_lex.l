@@ -1,0 +1,10 @@
+%{
+#include<stdio.h>
+int yywrap(void);
+int yylex(void);
+%}
+%%
+a {return 'a';}
+b {return 'b';}
+%%
+int yywrap(void){return 1;}

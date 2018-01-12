@@ -1,0 +1,4 @@
+In file: 3 The number of : word 18 , chracter 82 rows 4
+The total number of : word 54 , chracter 252 rows 13
+In file: 2 The number of : word 18 , chracter 86 rows 5
+In file: 1 The number of : word 18 , chracter 84 rows 4
